@@ -74,12 +74,28 @@
       "oAP" : "\/dev\/content\/svg-container.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/background.kit" : {
+    "\/dev\/content\/svg\/background\/clouds.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/background.html",
+      "oAP" : "\/dev\/content\/svg\/background\/clouds.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/background\/moon.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/background\/moon.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/background\/sky.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/svg\/background\/sky.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/foreground.kit" : {
@@ -94,48 +110,72 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/front.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.kit" : {
+    "\/dev\/content\/svg\/foreground\/front\/trees1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees1.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.kit" : {
+    "\/dev\/content\/svg\/foreground\/front\/trees2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees2.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.kit" : {
+    "\/dev\/content\/svg\/foreground\/middle\/greysmoke.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/greysmoke.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/red-mtn.kit" : {
+    "\/dev\/content\/svg\/foreground\/middle\/ground.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/red-mtn.html",
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/ground.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/moon.kit" : {
+    "\/dev\/content\/svg\/foreground\/middle\/mountain1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/moon.html",
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain1.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/mountain2.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain2.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/rocket.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/rocket.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
