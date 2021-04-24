@@ -5,7 +5,7 @@ export let zoomTL = gsap.timeline();
 gsap.set("#orange-mtn",{transformOrigin:"center"});
 gsap.set("#red-mtn",{transformOrigin:"center"});
 gsap.set(".front-mtns",{transformOrigin:"center"});
-gsap.set(".trees",{transformOrigin:"center"});
+gsap.set(".trees1",{transformOrigin:"center"});
 
 
 zoomTL.from("#orange-mtn",{duration:6, scale:10,ease: "power4.out",y:"+=1500"},"zoom")
