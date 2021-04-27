@@ -146,28 +146,12 @@
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees2.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/greysmoke.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/greysmoke.html",
-      "oF" : 0
-    },
     "\/dev\/content\/svg\/foreground\/middle\/greysmoke.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/greysmoke.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/ground.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/ground.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/foreground\/middle\/ground.kit" : {
@@ -178,28 +162,12 @@
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/ground.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/mountain1.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain1.html",
-      "oF" : 0
-    },
     "\/dev\/content\/svg\/foreground\/middle\/mountain1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain1.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/mountain2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain2.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/foreground\/middle\/mountain2.kit" : {
@@ -210,28 +178,12 @@
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mountain2.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/rocket.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/rocket.html",
-      "oF" : 0
-    },
     "\/dev\/content\/svg\/foreground\/middle\/rocket.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/rocket.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.kit" : {
@@ -277,6 +229,17 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/js\/fadeIn-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/dev\/js\/fadeIn-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/dev\/js\/fadeIn.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -296,6 +259,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
       "oF" : 2,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/zoomIn-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/dev\/js\/zoomIn-min-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
