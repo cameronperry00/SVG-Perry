@@ -114,28 +114,12 @@
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/front.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/front\/trees1.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees1.html",
-      "oF" : 0
-    },
     "\/dev\/content\/svg\/foreground\/front\/trees1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees1.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/front\/trees2.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees2.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/foreground\/front\/trees2.kit" : {
