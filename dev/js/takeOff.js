@@ -14,5 +14,4 @@ takeOffTL.to("#rocket_1_",{duration:0.15, rotation:-10,ease:"none"})
         .to("#mountain1",{duration:6, y:"1000", ease: "power4.in"},"upAndAway")
         .to("#mountain2",{duration:6, y:"1000", ease: "power4.in"},"upAndAway")
         .to("#ground_3_",{duration:6, y:"1000", ease: "power4.in"},"upAndAway")
-        .to("#moon",{duration:6, y:"1000", ease: "power4.in"},"upAndAway")
-        
+        .to("#moon",{duration:6, y:"1000", ease: "power4.in"},"upAndAway");
