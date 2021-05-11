@@ -138,14 +138,6 @@
       "oAP" : "\/dev\/content\/svg\/foreground\/front\/trees2.html",
       "oF" : 0
     },
-    "\/dev\/content\/svg\/foreground\/middle\/greysmoke.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/greysmoke.html",
-      "oF" : 0
-    },
     "\/dev\/content\/svg\/foreground\/middle\/ground.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -176,14 +168,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/svg\/foreground\/middle\/rocket.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/whitesmoke.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
