@@ -8,7 +8,7 @@ gsap.set("#smoke-1",{transformOrigin:"center bottom"});
 
 export let takeOffTL = gsap.timeline();
 
-liftOffTL.to("#rocket",{duration:0.15, rotation:-10,ease:"none"})
+takeOffTL.to("#rocket",{duration:0.15, rotation:-10,ease:"none"})
         .to("#rocket",{duration:0.15, rotation:10, yoyo:true, repeat:10,ease:"none"})
         .to("#rocket",{duration:0.15, rotation:0,ease:"none", onComplete:controlFlames})
         .from("#smoke-1",{duration:3.5, y:"+=150", scale:.75, alpha:0.5, ease: "power3.in"})
