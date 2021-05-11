@@ -17,4 +17,3 @@ takeOffTL.to("#rocket",{duration:0.15, rotation:-10,ease:"none"})
         .to("#clouds",{duration:5, y:"+=700", ease: "power3.in"})
         .to("#front",{duration:5, y:"+=600", ease: "power3.in"})
         .to("#middle",{duration:5, y:"+=500", ease: "power3.in"})
-        .from("#space",{duration:5,alpha:0, ease: "power3.in"});
