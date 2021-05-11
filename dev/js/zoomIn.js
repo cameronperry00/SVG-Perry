@@ -10,4 +10,4 @@ zoomTL.from("#mountain1",{duration:6, scale:10,ease: "power4.out",y:"+=1500"},"z
             .from("#rocket_1_",{duration:5.5, scale:10,ease: "power4.out",y:"+=800"},"zoom")
             .from("#trees1_2_",{duration:5.5, scale:10,ease: "power4.out",y:"+=420"},"zoom")
             .from("#trees2_2_",{duration:5.25, scale:10,ease: "power4.out",y:"+=420"},"zoom")
-            .from("#ground_3_",{duration:5, scale:10,ease: "power4.out",y:"+=420"},"zoom")
+            .from("#ground_3_",{duration:5, scale:10,ease: "power4.out",y:"+=420"},"zoom");
