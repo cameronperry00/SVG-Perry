@@ -2,7 +2,7 @@ import { gsap } from "gsap";
 
 export let zoomTL = gsap.timeline();
 
-gsap.set("#orange-mtn",{transformOrigin:"center"});
+gsap.set("#rocket",{transformOrigin:"center"});
 
 
 zoomTL.from("#mountain1",{duration:6, scale:10,ease: "power4.out",y:"+=1500"},"zoom")
