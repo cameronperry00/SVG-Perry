@@ -12,8 +12,8 @@ gsap.registerPlugin(GSDevTools);
 let mainTL = gsap.timeline();
 
 mainTL.add(fadeInTL)
-        .add(takeOffTL)
-        .add(zoomTL);
+        .add(zoomTL)
+        .add(takeOffTL);
 
 
 // console.log(numberThing);
