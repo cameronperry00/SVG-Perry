@@ -12,7 +12,8 @@ let mainTL = gsap.timeline();
 
 mainTL.add(fadeInTL)
         .add(zoomTL)
-        .add(takeOffTL);
+        .add(takeOffTL)
+        .add(flightPathTL);
 
 
 // console.log(numberThing);
