@@ -9808,7 +9808,7 @@
 
   zoomTL.from("#mountain1",{duration:6, scale:10,ease: "power4.out",y:"+=1500"},"zoom")
         .from("#mountain2",{duration:5.75, scale:10,ease: "power4.out",y:"+=800"},"zoom")
-        .from("#rocket",{duration:5.5, scale:10,ease: "power4.out",y:"+=800"},"zoom")
+        .from("#rocket-2",{duration:5.5, scale:10,ease: "power4.out",y:"+=800"},"zoom")
         .from("#trees1-2",{duration:5.5, scale:10,ease: "power4.out",y:"+=420"},"zoom")
         .from("#trees2-2",{duration:5.25, scale:10,ease: "power4.out",y:"+=420"},"zoom")
         .from("#ground",{duration:5, scale:10,ease: "power4.out",y:"+=420"},"zoom");
@@ -9818,14 +9818,14 @@
           .from("#clouds-2",{alpha:0, stagger:0.25, duration:1},"-=3")
           .from("#moon-2",{alpha:0, stagger:1, duration:1},"-=2");
 
-  gsapWithCSS.set("#rocket",{transformOrigin:"center"});
+  gsapWithCSS.set("#rocket-2",{transformOrigin:"center"});
 
   let takeOffTL = gsapWithCSS.timeline();
 
-  takeOffTL.to("#rocket",{duration:0.15, rotation:-5,ease:"none"})
-          .to("#rocket",{duration:0.15, rotation:5, yoyo:true, repeat:8,ease:"none"})
-          .to("#rocket",{duration:0.15, rotation:0,ease:"none"})
-          .to("#rocket",{duration:9, y:"-=700", ease: "power4.in"}, "upAndAway")
+  takeOffTL.to("#rocket-2",{duration:0.15, rotation:-5,ease:"none"})
+          .to("#rocket-2",{duration:0.15, rotation:5, yoyo:true, repeat:8,ease:"none"})
+          .to("#rocket-2",{duration:0.15, rotation:0,ease:"none"})
+          .to("#rocket-2",{duration:9, y:"-=700", ease: "power4.in"}, "upAndAway")
           .to("#clouds-2",{duration:6, y:"1000", ease: "power4.in"}, "upAndAway")
           .to("#trees1-2",{duration:6, y:"1000", ease: "power4.in"}, "upAndAway")
           .to("#trees2-2",{duration:6, y:"1000", ease: "power4.in"},"upAndAway")
